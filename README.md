@@ -2,7 +2,7 @@ QuickCut
 
 QuickCut is a sleek, modern web app designed to simplify booking haircuts and grooming services. Users can browse salons, select services, schedule appointments, make payments, and track their booking history—all in one place.
 Built with HTML, Tailwind CSS, and JavaScript, QuickCut features a responsive, user-friendly interface and QR-based check-ins for seamless salon experiences.
-
+https://irfan00199878.github.io/Quick-Cut/
 Features
 
 Browse local salons and view available services.
